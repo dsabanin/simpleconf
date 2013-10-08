@@ -8,6 +8,12 @@ Features:
 * Reading Clojure files will not evaluate them.
 * No config file structure imposed.
 
+## Latest version on [Clojars](https://clojars.org/simpleconf)
+
+```clojure
+[simpleconf "1.0.0"]
+```
+
 ## Usage
 
 ```clojure
