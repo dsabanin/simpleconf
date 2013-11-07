@@ -21,7 +21,7 @@ Features:
     (:require [simpleconf.core :as conf]))
 
 (def global-conf (conf/read-yaml "config.yaml"))
-(def another-conf (conf/read-clojure "config.yaml"))
+(def another-conf (conf/read-clojure "config.clj"))
 ```
 
 ## License
